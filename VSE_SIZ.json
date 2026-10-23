@@ -1,0 +1,96 @@
+{
+	"dictionary": {
+		"error": "",
+		"text": ""
+	},
+	"form": {
+		"hint": "",
+		"isRecording": false,
+		"message": ""
+	},
+	"id": "fdf8e072-3e76-445d-aa9b-7da4429ca13b",
+	"settings": {
+		"isActive": true,
+		"name": "VSE_SIZ"
+	},
+	"topicSettings": {
+		"Unnamed_0": {
+			"parameters": [
+				{
+					"type": 1
+				},
+				{
+					"options": {
+						"distanceMax": 2
+					},
+					"threshold": 50,
+					"type": 2
+				},
+				{
+					"options": {
+						"distanceMax": 2
+					},
+					"threshold": 50,
+					"type": 3
+				},
+				{
+					"options": {
+						"distanceMax": 2
+					},
+					"threshold": 50,
+					"type": 4
+				},
+				{
+					"options": {
+						"distanceMax": 2,
+						"onlyNeighbors": true,
+						"preserveOrder": true,
+						"onlyEndings": true,
+						"similarityMin": 1,
+						"spaceMax": 5,
+						"wordLengthMin": 0
+					},
+					"thresholds": {
+						"length": 0,
+						"maxDistance": 2,
+						"maxSpace": 5,
+						"meanDistance": 2,
+						"meanSpace": 5,
+						"score": 0,
+						"similarity": 1,
+						"uniqLength": 0
+					},
+					"type": 5
+				},
+				{
+					"options": {
+						"distanceMax": 2
+					},
+					"threshold": 50,
+					"type": 6
+				}
+			],
+			"type": "4"
+		}
+	},
+	"topics": [
+		{
+			"bestPhrase": "",
+			"data": null,
+			"foundText": "",
+			"foundValue": 0,
+			"id": 1142758353,
+			"isFound": false,
+			"name": "Unnamed_0",
+			"notNull": false,
+			"phrases": [
+				"(Цепь)(Боты)(Сигнальная лента)(Тепловизор)(Каска)(Диэлектрические перчатки)(Хлопчатобумажные перчатки)(Оперативная штанга)(Переносное заземление)(6Кв)(110 кВ)(6-15 кВ)"
+			],
+			"value": 0
+		}
+	],
+	"type": "synonyms-templates",
+	"lastModified": 1792767983818,
+	"url": "https://webds-editor.verba.modumlab.tech/static/prod_room_____d11baca2d80247858df7838add98a043/dictionaries/fdf8e072-3e76-445d-aa9b-7da4429ca13b.json",
+	"filename": "fdf8e072-3e76-445d-aa9b-7da4429ca13b.json"
+}
