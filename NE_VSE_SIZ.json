@@ -1,0 +1,107 @@
+{
+	"dictionary": {
+		"error": "",
+		"text": ""
+	},
+	"form": {
+		"hint": "",
+		"isRecording": false,
+		"message": ""
+	},
+	"id": "5a86c21a-329c-4819-a660-f01703f58d0c",
+	"settings": {
+		"isActive": true,
+		"name": "NE_VSE_SIZ"
+	},
+	"topicSettings": {
+		"Unnamed_0": {
+			"parameters": [
+				{
+					"type": 1
+				},
+				{
+					"options": {
+						"distanceMax": 2
+					},
+					"threshold": 50,
+					"type": 2
+				},
+				{
+					"options": {
+						"distanceMax": 2
+					},
+					"threshold": 50,
+					"type": 3
+				},
+				{
+					"options": {
+						"distanceMax": 2
+					},
+					"threshold": 50,
+					"type": 4
+				},
+				{
+					"options": {
+						"distanceMax": 2,
+						"onlyNeighbors": true,
+						"preserveOrder": true,
+						"onlyEndings": true,
+						"similarityMin": 0,
+						"spaceMax": 1,
+						"wordLengthMin": 0
+					},
+					"thresholds": {
+						"length": 0,
+						"maxDistance": 2,
+						"maxSpace": 1,
+						"meanDistance": 2,
+						"meanSpace": 1,
+						"score": 0,
+						"similarity": 1,
+						"uniqLength": 0
+					},
+					"type": 5
+				},
+				{
+					"options": {
+						"distanceMax": 2
+					},
+					"threshold": 50,
+					"type": 6
+				}
+			],
+			"type": "4"
+		}
+	},
+	"topics": [
+		{
+			"bestPhrase": "",
+			"data": null,
+			"foundText": "",
+			"foundValue": 0,
+			"id": 1142758353,
+			"isFound": false,
+			"name": "Unnamed_0",
+			"notNull": false,
+			"phrases": [
+				"Цепь",
+				"Диэлектрические боты",
+				"Диэлектрические перчатки",
+				"Хлопчатобумажные перчатки",
+				"Тепловизор",
+				"Каска",
+				"Оперативная штанга",
+				"Переносное заземление 0,4кВ",
+				"Сигнальная лента",
+				"УН 6Кв",
+				"УН 6-15 кВ",
+				"УН 110 кВ"
+			],
+			"value": 0
+		}
+	],
+	"type": "synonyms-templates",
+	"lastModified": 1792775373580,
+	"url": "https://webds-editor.verba.modumlab.tech/static/prod_room_____d11baca2d80247858df7838add98a043/dictionaries/5a86c21a-329c-4819-a660-f01703f58d0c.json",
+	"filename": "5a86c21a-329c-4819-a660-f01703f58d0c.json"
+}
